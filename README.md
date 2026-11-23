@@ -2,11 +2,6 @@
 
 # 🚔 GIBDD Helper — Ассистент сотрудника ГИБДД
 **Современный AHK-биндер, игровой оверлей и умная шпаргалка для MTA: Province**
-
-[![Latest Release]([https://github.com](https://github.com/Lstaker/gibdd-updates/releases))
-[![Platform](https://shields.io)](#)
-[![Download]([https://github.com](https://github.com/Lstaker/gibdd-updates/releases))
-
 </div>
 
 ---
